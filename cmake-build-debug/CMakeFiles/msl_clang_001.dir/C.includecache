@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/John Becker/Dropbox/Documents/School Stuff/UC Denver New Degree/Spring 2018/Operating System Concepts/Homeworks/msl-clang-001/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
